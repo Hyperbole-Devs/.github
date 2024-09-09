@@ -26,7 +26,7 @@ Want to check out our repositories and source code? check out our [GitHub organi
 We love collaborating with the Minecraft community! If you have suggestions, feedback, or ideas for future modpacks, feel free to reach out to us. You can also follow us on social media to stay updated on our latest releases and news.
 
 - **Email: metaphorshortcuts@gmail.com**.
-- **GitHub Discussions: https://github.com/orgs/Hyperbole-Devs/discussions. Join our community to chat with us and other modders!
+- **GitHub Discussions: https://github.com/orgs/Hyperbole-Devs/discussions. Join our community to chat with us and other modders!**
 
 - If you enjoy our modpacks and want to support our work, consider reporting issues on our GitHub repositories. It helps us continue to create high-quality content and improve our modpacks.
 
