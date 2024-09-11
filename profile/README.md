@@ -34,10 +34,12 @@ We love collaborating with the Minecraft community! If you have suggestions, fee
 
 Thank you for visiting Hyperbole Studios. We hope you enjoy our modpacks and have a fantastic time exploring the content we create!
 
-**Hyperbole Studios Team**
+## Hyperbole Studios Team
 
 flikrheist- Lead Developer
+
 sciencefish21 - Contributor
+
 
 *For more information, visit our [solo.to page](hyperbolestudios.info).*
 
