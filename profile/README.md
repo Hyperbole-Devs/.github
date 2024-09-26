@@ -16,7 +16,7 @@ You can find our modpacks on Modrinth, and our source code on GitHub, where we s
 - **[Phoneix](https://modrinth.com/modpack/the-phoneix-project)**: Key highlights and unique aspects of this modpack.
 - **[Jellysquid](https://modrinth.com/modpack/jellysquid)**: Key highlights and unique aspects of this modpack.
 - **[Sound Extension](https://modrinth.com/modpack/sound-extension)**: Key highlights and unique aspects of this modpack.
-- **[Lentrex](https://modrinth.com/modpack/lentrex)**: Key highlights and unique aspects of this modpack.
+- **[Redux](https://modrinth.com/modpack/redux)**: Key highlights and unique aspects of this modpack.
 
 For a complete list of our modpacks, visit our [Modrinth organization page](https://modrinth.com/organization/hyperbole-studios).
 Want to check out our repositories and source code? check out our [GitHub organization page](https://github.com/hyperbole-devs).
@@ -41,5 +41,5 @@ flikrheist- Lead Developer
 sciencefish21 - Contributor
 
 
-*For more information, visit our [solo.to page](https://solo.to/hyperbole-studios).*
+*For more information, visit our [website](wix.hyperbolestudios.info).*
 
