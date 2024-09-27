@@ -41,5 +41,5 @@ flikrheist- Lead Developer
 sciencefish21 - Contributor
 
 
-*For more information, visit our [website](wix.hyperbolestudios.info).*
+*For more information, visit our [website](http://wix.hyperbolestudios.info).*
 
